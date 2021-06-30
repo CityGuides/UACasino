@@ -1,1 +1,1 @@
-[{"names":[{"Kiev":"ShangriLa", "Odessa":"FirstCasino", "Lviv":"FirstCasino"}]},{"phones":[{"Kiev":"+380444980808", "Odessa":"+380509081111", "Lviv":"+380936961111"}]},{"emails":[{"Kiev":"info@shangrila.ua", "Odessa":"support@first.ua", "Lviv":"support@first.ua"}]}]
+{"data":"Kiev, ShangriLa, Odessa, FirstCasino, Lviv, FirstCasino, +380444980808, +380509081111, +380936961111, info@shangrila.ua, support@first.ua, support@first.ua"}
