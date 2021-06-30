@@ -1,1 +1,1 @@
-[{"names":[{ShangriLa, FirstCasino, FirstCasino]}]
+[{"names":[{"Kiev":"ShangriLa", "Odessa":"FirstCasino", "Lviv":"FirstCasino"}]},{"phones":[{"Kiev":"+380444980808", "Odessa":"+380509081111", "Lviv":"+380936961111"}]},{"emails":[{"Kiev":"info@shangrila.ua", "Odessa":"support@first.ua", "Lviv":"support@first.ua"}]}]
